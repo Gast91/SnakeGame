@@ -1,5 +1,5 @@
 # Snake Game Clone
-A snake game clone (game popularized by being added to Nokia phones) developed in **winter 2018** for the sole purpose of getting familiar with the SFML library.
+A snake game clone (game popularized by Nokia) developed in **winter 2018** for the sole purpose of getting familiar with the SFML library.
 
 ## Getting Started
 
